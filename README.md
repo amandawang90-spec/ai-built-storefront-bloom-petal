@@ -2,7 +2,7 @@
 
 A fully frontend, single-file e-commerce shop for handcrafted jewelry. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-🌐 **Live demo:** [cheerful-daifuku-4974ae.netlify.app](https://cheerful-daifuku-4974ae.netlify.app)
+🌐 **Live demo:** [bloom-and-netlify.netlify.app](https://bloom-and-netlify.netlify.app)
 
 ---
 
