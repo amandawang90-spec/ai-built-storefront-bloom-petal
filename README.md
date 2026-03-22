@@ -2,7 +2,7 @@
 
 A fully frontend, single-file e-commerce shop for handcrafted jewelry. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-🌐 **Live demo:** [bloom-and-netlify.netlify.app](https://bloom-and-netlify.netlify.app)
+🌐 **Live demo:** [bloom-and-petal.netlify.app](https://bloom-and-petal.netlify.app)
 
 ---
 
