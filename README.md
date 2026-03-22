@@ -59,12 +59,6 @@ index.html   ← entire app (HTML + CSS + JS in one file)
 
 ---
 
-## 📸 Preview
-
-![Bloom & Petal Preview](https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80)
-
----
-
 ## License
 
 MIT — feel free to use as a template for your own shop.
